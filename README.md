@@ -1,1 +1,1 @@
-"twitter-search-bookmarklet" 
+twitter-search-bookmarklet
