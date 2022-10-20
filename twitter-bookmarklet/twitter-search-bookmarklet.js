@@ -1,0 +1,1 @@
+javascript:var a="https://twitter.com/search?q=filter%3Aquote%20%E3%80%80%20 ";var b=prompt("つぶやきを検索してみよう");if (b===""){alert("invalid response");}else if (b!=null){open(a+encodeURI(b));}
