@@ -1,1 +1,1 @@
-twitter-search-bookmarklet.
+twitter-search-bookmarklet for quote searched
